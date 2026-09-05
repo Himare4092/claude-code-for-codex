@@ -1,0 +1,20 @@
+{
+  "name": "claude",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Claude Code reviews, investigations and task handoffs from Codex.",
+  "author": {
+    "name": "Himare4092"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Claude",
+    "shortDescription": "Use Claude in Codex.",
+    "longDescription": "Run /claude:test, review, adversarial-review, rescue, transfer, setup, status, result and cancel using the locally authenticated Claude Code CLI.",
+    "developerName": "Himare4092",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["/claude:review", "/claude:adversarial-review", "/claude:setup"]
+  }
+}

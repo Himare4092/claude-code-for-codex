@@ -260,4 +260,4 @@ When reporting a bug, include the command, OS, Node.js and Claude Code versions,
 
 ## License
 
-[MIT](LICENSE). Bundled dependency notices are included in [THIRD_PARTY_LICENSES.txt](plugins/claude/THIRD_PARTY_LICENSES.txt).
+[MIT](LICENSE). Bundled dependency notices are included in [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt).
