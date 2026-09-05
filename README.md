@@ -2,7 +2,7 @@
 
 **Use Claude Code from Codex for code reviews, investigations, and task handoffs.**
 
-[日本語](README.md) | English
+[日本語](README.jp.md) | English
 
 This independent project provides the reverse workflow of [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc): Codex delegates work to your locally installed Claude Code CLI, then retrieves the results.
 
